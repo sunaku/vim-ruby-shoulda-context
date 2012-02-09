@@ -1,7 +1,7 @@
-# vim-ruby-minitest
+# vim-ruby-shoulda-context
 
-Vim syntax highlighting and `i_CTRL-X_CTRL-U` completion of [MiniTest](
-https://github.com/seattlerb/minitest#readme) methods and assertions.
+Vim syntax highlighting and `i_CTRL-X_CTRL-U` completion of [shoulda-context](
+https://github.com/thoughtbot/shoulda-context#readme) methods and assertions.
 
 ## Installation
 
